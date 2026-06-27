@@ -1,5 +1,18 @@
-## Hi there 👋
+# Hello there 👋
 
+My name is [BRUHmeh](https://github.com/BRUHmeh-0312) and I'm a beginner python programmer.
+
+I'm from Portugal and yes, I prefer **Ronaldo** than Messi.
+I love programming and meeting new people that do the same as I do. I'm here to meet, talk and improvise my skills and ways to achive better knowledge of the world of programming (:
+
+I will be trying to use not only *python*, but also *HTML*, *CSS*, *JavaScript* and much much more...
+
+🔥 **Fun Facts:**
+
+- I **<ins>LOVE</ins>** listening to music
+- I like playing [DDnet](https://store.steampowered.com/app/412220/DDNet/)
+- Me like duckys
+- I don't like ice cream
 <!--
 **BRUHmeh-0312/BRUHmeh-0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
